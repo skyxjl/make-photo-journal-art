@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片手帐生成器"
+  short_description: "根据照片、主题与时代语境自适应版式、色彩和字体的手帐生成器"
+  default_prompt: "使用 $make-photo-journal-art 把我上传的照片制作成一张主题手帐图，并让字体与主题、地域和时代气质匹配。"
